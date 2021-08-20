@@ -1,0 +1,4 @@
+optConfig:
+  optInRepos:
+    - fhir-gateway
+    - fhir-pseudonymizer
